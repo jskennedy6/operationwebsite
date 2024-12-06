@@ -1,0 +1,45 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    justify-content: center;
+    text-align: center;
+    }
+.body{font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    justify-content: center;
+    text-align: center;
+    list-style-position: inside;
+    }
+.video-container {
+    display: flex; /* Enables flexbox layout */
+    justify-content: center; /* Centers the video horizontally */
+    align-items: center; /* Centers the video vertically */
+    height: 75vh; /* Makes the container take the full height of the viewport */
+    margin: 0;
+    }
+.image{
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 100vh; /* Full viewport height */
+    }
+.sub{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    justify-content: center;
+    text-align: center;
+    background-color: #D3D3D3;
+}
+.subhead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    justify-content: center;
+    text-align: center;
+    list-style-position: inside;
+    background-color: #D3D3D3;
+    font-weight: bold;
+}
+.backcolor {
+    background-color: bisque;
+}
+
